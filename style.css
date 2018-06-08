@@ -72,7 +72,7 @@ p, li {
 	background-color: lightgray;
 }
 
-.banner {
+.ucm-banner {
 	padding: 0.5em;
 	background-image: url('Beginnings.jpg');
 	background-size: cover;
