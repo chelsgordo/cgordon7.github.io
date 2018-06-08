@@ -72,6 +72,14 @@ p, li {
 	background-color: lightgray;
 }
 
+.banner {
+	padding: 0.5em;
+	background-image: url('Beginnings.jpg');
+	background-size: cover;
+	background-position: center bottom;
+	background-color: lightgray;
+}
+
 .content-section {
 	max-width: 960px;
 	padding: 0.5em;
