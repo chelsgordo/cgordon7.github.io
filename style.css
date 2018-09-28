@@ -5,7 +5,7 @@ p, li, td {
 
 .blank_row
 {
-    height: 20px; /* overwrites any other rules */
+    height: 20px; 
     background-color: #FFFFFF;
 }
 
