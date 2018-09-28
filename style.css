@@ -6,6 +6,7 @@ p, li, td {
 .blank_row {
     	height: 30px;
 	background-color: #f9f9f9;
+	color: #f9f9f9
 }
 
 .topnav {
