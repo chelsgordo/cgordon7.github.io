@@ -3,9 +3,9 @@ p, li, td {
 	text-align: justify;
 }
 
-.blank_row
-{
-    height: 30px; 
+.blank_row {
+    	height: 30px;
+	background-color: lightgray;
 }
 
 .topnav {
