@@ -3,6 +3,12 @@ p, li, td {
 	text-align: justify;
 }
 
+.blank_row
+{
+    height: 10px !important; /* overwrites any other rules */
+    background-color: #FFFFFF;
+}
+
 .topnav {
 	overflow: hidden;
 	background-color: #333;
